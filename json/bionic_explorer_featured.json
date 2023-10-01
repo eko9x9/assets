@@ -2,7 +2,7 @@
     {
         "title": "Bionic",
         "url": "https://explorer.bionicecosystem.io",
-        "group": "Mainnet",
+        "group": "Mainnets",
         "icon": "https://raw.githubusercontent.com/eko9x9/assets/master/images/bionic/icon.svg",
         "isActive": true,
         "invertIconInDarkMode": true
@@ -10,7 +10,7 @@
     {
         "title": "Bionic Testnet",
         "url": "https://explorer-testnet.bionicecosystem.io",
-        "group": "Testnet",
+        "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/eko9x9/assets/master/images/bionic/icon.svg",
         "isActive": true,
         "invertIconInDarkMode": true

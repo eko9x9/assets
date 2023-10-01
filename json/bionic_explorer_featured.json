@@ -12,7 +12,7 @@
         "url": "https://explorer-testnet.bionicecosystem.io",
         "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/eko9x9/assets/master/images/bionic/icon.svg",
-        "isActive": true,
+        "isActive": false,
         "invertIconInDarkMode": true
     }
 ]

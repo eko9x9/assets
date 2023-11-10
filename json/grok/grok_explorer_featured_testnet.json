@@ -8,7 +8,7 @@
         "invertIconInDarkMode": true
     },
     {
-        "title": "Bionic Testnet",
+        "title": "Grok Testnet",
         "url": "https://explorer-testnet.grok-chain.io",
         "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/eko9x9/assets/master/images/grok/icon.svg",
